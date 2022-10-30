@@ -3,7 +3,7 @@
   <h2 align="center">Meu nome é <a href="https://www.linkedin.com/in/jean-gabriel-silva-41439119b/" target="_blank"><i>Jean Gabriel Silva</i></a>
   <p align="center"> Sou estudante de Programação Back End ( Java ) 
             <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"</a> 
-   <p align="center"> Cursando Bacharel em Sistemas de Informação na <a href="https://www.ufv.br/" target="_blank">Universidade Federal de Viçosa - UFV<a>
+   <p align="center"> Cursando Bacharel em Sistemas de Informação na <a href="https://www.pucminas.br/destaques/Paginas/default.aspx" target="_blank">Pontifícia Universidade Católica de Minas Gerais<a>
    <p align="center"> -------<a href="https://curriculojeangabriel.web.app/" target="_blank"> Site Currículo<a>-------
    <p align="center">(Em desenvolvimento)
           </a>
